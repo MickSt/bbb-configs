@@ -312,9 +312,9 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "%{href} ist eine benutzerfreundliche Oberfläche für das Open-Source-Webkonferenzsystem BigBlueButton. Sie können Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
-    welcome: Willkommen zu BigBlueButton.
-    video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
+    about: "<br> Mit Hilfe des Open-Source-Projekts BigBlueButton können wir Online-Seminare anbieten gemäß Artikel 57 DS-GVO. <br><br> Hiermit machen wir darauf aufmerksam, dass dieser Server nicht mit BigBlueButton Inc. in Verbindung steht."
+    welcome: Willkommen beim BigBlueButton-Server des Landesbeauftragten f&uuml;r Datenschutz und Informationsfreiheit Mecklenburg-Vorpommern.
+    video: ""
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
   language_default: Voreinstellung (Browsersprache)
